@@ -1,0 +1,5 @@
+{
+  "name": "GDM Research Data Collector",
+  "description": "An anonymized clinical research tool for rapid gestational diabetes data collection with privacy-first design, custom keyboard input, and real-time dashboard visualization.",
+  "requestFramePermissions": []
+}
